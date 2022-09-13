@@ -1,0 +1,95 @@
+*{ padding: 0; margin: 0; box-sizing: border-box; 
+font-family: "Times New Roman", sans-serif;
+	font-size: 20px;
+  font-style: italic;}
+.carousel-inner img {
+      width: 100%;
+      height: 95vh;
+    }
+  
+
+.aboutimg {
+    width: 100%;
+    height: 60vh !important;
+  }
+.aboutimg2 {
+    width: 100%;
+    height: 68vh !important;
+  }
+
+ p {
+  line-height: 27px;
+  font-size: 20px;
+  text-indent: 45px;
+}
+
+
+.house{
+  background: #008080;
+}
+.house label{
+  display: block;
+  box-sizing: border-box;
+  margin: 10px 10px;
+  padding: 10px 10px;
+}
+.paint{
+   background: #707b7c;
+
+}
+.floor{
+  background:  #5D6D7E;
+}
+
+.contact-section{
+ 
+  background-size: cover;
+  padding: 40px 0px; 
+} 
+.contact-section h2{
+  text-align: center;
+  color: #111;
+}
+
+
+}
+.contact-form{
+  max-width: 600px;
+  margin: auto;
+  padding: 0px 10px;
+  overflow: hidden;
+
+}
+.contact-form-text{
+
+display: block;
+width: 100%;
+box-sizing: border-box;
+margin: 16px 300px;
+border: 0px;
+background: #111;
+padding: 40px 40px;
+outline: none;
+color: #ddd;
+transition: 0.5s;
+
+}
+.contact-form-text:hover{
+  box-shadow: 0 0 10px 4px #34495e;
+
+}
+.contact-form-btn{
+ 
+ border: 0px;
+  background: #008080;;
+  color: #fff;
+  margin-top: 
+  padding: 15px 50px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.contact-form-btn:hover{
+  background: #ddd;
+}
+
